@@ -21,7 +21,7 @@ A Go linter for checking log messages compliance with best practices.
 ### As a standalone tool
 
 ```bash
-go install github.com/yourusername/loglint@latest
+go install github.com/M4RSHMELAD/loglint@latest
 ```
 
 ### As golangci-lint plugin
@@ -199,4 +199,5 @@ loglint/
 ├── go.mod
 └── README.md
 ```
+
 

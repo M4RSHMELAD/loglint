@@ -1,0 +1,18 @@
+linters-settings:
+  custom:
+    loglint:
+      path: ./loglint.exe
+      description: Linter for log messages
+      original-url: github.com/M4RSHMELAD/loglint
+
+linters:
+  enable:
+    - loglint
+  disable-all: false
+
+run:
+  timeout: 5m
+  tests: true
+
+issues:
+  exclude-use-default: false

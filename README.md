@@ -1,4 +1,5 @@
 # loglint
+ATATT3xFfGF0N0VT38PksUEp4xhDV36eeh0As92royDroXmLExNytcL8iWfP2brS_azK_6pI0_4kGGxY7ITLaQ_c1t-51b176jEMJXmLK21WsNnPVzYWJhx21qQoWkvZz60n13QTjOdzxbUzd1w1p3TNOHrrne0QWEI80mG98u4NWSOBtICbGOU=24DA6FDA
 
 A Go linter for checking log messages compliance with best practices.
 
